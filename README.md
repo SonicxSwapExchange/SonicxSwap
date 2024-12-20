@@ -31,6 +31,6 @@ Here are the key contracts used in the SonicXSwap platform:
 To use SonicXSwap locally, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/SonicXSwap.git
+git clone https://github.com/SonicxSwapExchange/SonicXSwap.git
 cd SonicXSwap
 npm install
